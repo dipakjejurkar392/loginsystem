@@ -1,0 +1,83 @@
+ [
+      {
+        "id": 1,
+        "name": "Organic Fertilizer",
+        "category": "Fertilizers",
+        "price": 250,
+        "description": "High-quality organic fertilizer for better crop yield.",
+        "image": "https://agriplexindia.com/cdn/shop/files/2_8970a30d-f281-4599-97b4-c25cba3ff976.png?crop=center&height=940&v=1719225520&width=9400"
+      },
+      {
+        "id": 2,
+        "name": "Hybrid Tomato Seeds",
+        "category": "Seeds",
+        "price": 100,
+        "description": "High-yield hybrid tomato seeds for farmers.",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 3,
+        "name": "Pesticide Spray",
+        "category": "Pesticides",
+        "price": 300,
+        "description": "Effective pesticide spray to protect crops.",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 4,
+        "name": "Tractor Engine Oil",
+        "category": "Machinery",
+        "price": 450,
+        "description": "High-performance engine oil for tractors.",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 5,
+        "name": "Drip Irrigation Kit",
+        "category": "Irrigation",
+        "price": 1500,
+        "description": "Complete drip irrigation system for small farms.",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 6,
+        "name": "Organic Manure",
+        "category": "Fertilizers",
+        "price": 180,
+        "description": "Nutrient-rich organic manure for soil enrichment.",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 7,
+        "name": "Wheat Seeds",
+        "category": "Seeds",
+        "price": 90,
+        "description": "High-yield wheat seeds for commercial farming.",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 8,
+        "name": "Herbicide Liquid",
+        "category": "Pesticides",
+        "price": 320,
+        "description": "Effective herbicide to control weeds.",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 9,
+        "name": "Mini Power Tiller",
+        "category": "Machinery",
+        "price": 7500,
+        "description": "Compact power tiller for small farms.",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 10,
+        "name": "Sprinkler Irrigation System",
+        "category": "Irrigation",
+        "price": 2200,
+        "description": "Efficient sprinkler system for uniform watering.",
+        "image": "https://via.placeholder.com/150"
+      }
+    ]
+  
